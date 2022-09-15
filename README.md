@@ -12,7 +12,11 @@
 
 ## :pencil:課程筆記
 ### week 1: Introduction
- * #### Why Coding?
+ * 生產力創新週期
+ ![image](https://user-images.githubusercontent.com/112916890/190286800-1c6c537f-3b8c-494e-ac89-fd8eec616966.png)
+ *  #### Why Coding?
+   * 掌握電腦運作的邏輯>>運算思維
+   * 動手解決問題的能力
  * 上課簡報: [1/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=LiPvUoV-Dy4&feature=youtu.be)
  
 ### week 2: Basic Python 01
