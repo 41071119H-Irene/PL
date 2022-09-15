@@ -20,6 +20,7 @@
  * 上課簡報: [1/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=LiPvUoV-Dy4&feature=youtu.be)
  
 ### week 2: Basic Python 01
+ * [語法查詢工具](https://www.geeksforgeeks.org/python-programming-language/)
  * [今日範例(領域:法律)](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_01)
  * 上課簡報: [2/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vQa2_6HxpBPDUjViqvd82AqQfnywwWwETU60fLexCe7ADD8A7kHkpGjkmO6kCSYyw-AFrSCfG3THXiA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
