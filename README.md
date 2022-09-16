@@ -20,6 +20,11 @@
  * 上課簡報: [1/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=LiPvUoV-Dy4&feature=youtu.be)
  
 ### week 2: Basic Python 01
+ * 資料型態:
+   * int: 整數
+   * float: 浮點數(包含小數點)
+   * str: 字串 要加 "" 或 ''
+   * bool: True/False
  * [語法查詢工具(StackOverflow)](https://www.geeksforgeeks.org/python-programming-language/)
  * [開發者論壇(GeekforGeek)](https://stackoverflow.co/)
  * [今日範例(領域:法律)](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_01)
