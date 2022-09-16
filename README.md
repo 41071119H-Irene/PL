@@ -6,9 +6,9 @@
 ***
 # 目錄  
 
-+ [**課程筆記**](https://github.com/41071119H-Irene/PL#pencil%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
-+ [**作業連結**](https://github.com/41071119H-Irene/PL#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
-+ [**專題連結**](https://github.com/41071119H-Irene/PL#%EF%B8%8F%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
++ [**課程筆記**](https://github.com/41071119H-Irene/PL#pencil%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98)
++ [**作業連結**](https://github.com/41071119H-Irene/PL#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
++ [**專題連結**](https://github.com/41071119H-Irene/PL#%EF%B8%8F%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90)
 
 ## :pencil:課程筆記
 ### week 1: Introduction
