@@ -31,13 +31,21 @@
  * 上課簡報: [2/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vQa2_6HxpBPDUjViqvd82AqQfnywwWwETU60fLexCe7ADD8A7kHkpGjkmO6kCSYyw-AFrSCfG3THXiA/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=502948)
  
  ### week 3: Basic Python 02
- * 
-   * 
+ * [練習資料](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)
+ * Source: 抓資料檔(csv) 
+ * List(ls)
+    * 印出資料裡面不同的元素，並聚集在一起
+    * 有工具可以處理資料
+ * Set
+    * '&' : 交集 s1.intersection(s2)
+    * '|': 聯集 s1.union(s2)
+    * '-' : 差集 s1.difference(s2)
+    * '^' : 對稱差集(聯集-交集) s1.symmetric_difference(s2)
    
  * 上課簡報: [3/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
 ### Week2
 #### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
 ### Week3
-#### [Python_02練習](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)
+#### [Python_02練習]()
 ## 📽️專題連結
