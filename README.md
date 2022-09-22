@@ -39,5 +39,5 @@
 ### Week2
 #### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
 ### Week3
-#### [Python_02練習]()
+#### [Python_02練習](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)
 ## 📽️專題連結
