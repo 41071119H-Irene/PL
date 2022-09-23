@@ -46,10 +46,9 @@
    
  * 上課簡報: [3/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=508174)
 ## 🙌作業連結
-### Week2
-#### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
-### Week3
-#### [Python_02練習]()
-#### [作業一](https://github.com/41071119H-Irene/PL/blob/main/Week3_Homework_01.ipynb)
+#### Week2
+##### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
+#### Week3
+##### [作業一](https://github.com/41071119H-Irene/PL/blob/main/Week3_Homework_01.ipynb)
 ![image](https://user-images.githubusercontent.com/112916890/191666678-9d0929b1-ee8b-488b-8f9c-ca454277acab.png)
 ## 📽️專題連結
