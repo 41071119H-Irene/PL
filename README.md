@@ -34,19 +34,35 @@
  * [示範資料](https://github.com/pecu/PL/blob/main/Python02.ipynb)
  * [練習資料](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)
  * 語法整理
-    * Source: 抓資料檔(csv) 
-    * List(ls) 串列
+    * List(ls) 串列 [,]
         * 最常見的數據形式，具順序
         * 印出資料裡面不同的元素，並聚集在一起
         * 有工具可以處理資料(.append()、del[]、.split())
-    * Tuple 元組
-    * Set 集合
-        * '&' : 交集 s1.intersection(s2)
-        * '|': 聯集 s1.union(s2)
-        * '-' : 差集 s1.difference(s2)
-        * '^' : 對稱差集(聯集-交集) s1.symmetric_difference(s2)
-    * dict 字典
+    * Tuple 元組(,)
+        * 安全版串列: 不能更動元素
+        * 可放不同類型的資料
+        * 具順序性
+        * 兩邊數量不一樣的時候取較短的為主
+           * zip 打包
+           * *zip (unzip)解壓縮
+    * Set 集合 {,}
+        * 無順序，不可重複
+        * 邏輯因子
+           * '&' : 交集 s1.intersection(s2)
+           * '|': 聯集 s1.union(s2)
+           * '-' : 差集 s1.difference(s2)
+           * '^' : 對稱差集(聯集-交集) s1.symmetric_difference(s2)
+    * dict 字典 {key:value,ket:value}
+        * 以鍵值方式儲存，元素不可重複
+        * 可以放不同型態的資料
  * 上課簡報: [3/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=508174)
+ 
+ ### week 4: Basic Python 02
+ * [示範資料]()
+ * [練習資料](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C2_Python_%E5%9F%BA%E7%A4%8E_03%2604)
+ 
+  * 上課簡報: [4/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+  
 ## 🙌作業連結
 > ### Week2
 >> #### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
