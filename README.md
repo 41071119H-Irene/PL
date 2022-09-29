@@ -68,8 +68,7 @@
 >> #### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
 > ### Week3
 >> #### [Python_02練習](https://github.com/41071119H-Irene/PL/blob/main/Week3_python_02.ipynb)
->> #### [作業一](https://github.com/41071119H-Irene/PL/blob/main/Week3_Homework_01.ipynb)
-![image](https://user-images.githubusercontent.com/112916890/191666678-9d0929b1-ee8b-488b-8f9c-ca454277acab.png)
+>> #### [作業一-課程缺席尋找器兼資料處理的使用](https://github.com/41071119H-Irene/PL/blob/main/Week3_Homework_01.ipynb)
 > ### Week4
 >> #### [Python_03練習]()
 ## 📽️專題連結
