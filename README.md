@@ -58,7 +58,7 @@
  * 上課簡報: [3/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=508174)
  
  ### week 4: Basic Python 03
- * [示範資料]()
+ * [課程練習](https://github.com/41071119H-Irene/PL/blob/main/Week4_Python_03.ipynb)
  * [練習資料](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C2_Python_%E5%9F%BA%E7%A4%8E_03%2604)
  
   * 上課簡報: [4/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
