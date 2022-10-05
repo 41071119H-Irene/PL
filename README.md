@@ -58,6 +58,8 @@
  * 上課簡報: [3/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=508174)
  
  ### week 4: Basic Python 03
+ * Dictionary
+    * 較複雜的資料結構，但很好查詢
  * [課程練習](https://github.com/41071119H-Irene/PL/blob/main/Week4_Python_03.ipynb)
  * [練習資料](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C2_Python_%E5%9F%BA%E7%A4%8E_03%2604)
  
@@ -74,5 +76,5 @@
 >> #### [Python_02練習](https://github.com/41071119H-Irene/PL/blob/main/Week3_python_02.ipynb)
 >> #### [作業一-課程缺席尋找器兼資料處理的使用](https://github.com/41071119H-Irene/PL/blob/main/Week3_Homework_01.ipynb)
 > ### Week4
->> #### [Python_03練習]()
+>> #### [Python_03練習](https://github.com/41071119H-Irene/PL/blob/main/Week4_Python_03.ipynb)
 ## 📽️專題連結
