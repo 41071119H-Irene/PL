@@ -66,8 +66,8 @@
   * 上課簡報: [4/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=512297)
 
 ### week 5: Basic Python 04
- * [課程練習]()
- * [練習資料]()
+ * Json形式的資料-> 巢狀資料級
+ * [練習資料](https://github.com/pecu/PL/blob/main/Python03.ipynb)
   * 上課簡報: [5/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 ## 🙌作業連結
 > ### Week2
