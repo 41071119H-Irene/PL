@@ -68,7 +68,14 @@
 ### week 5: Basic Python 04
  * Json形式的資料-> 巢狀資料級
  * [練習資料](https://github.com/pecu/PL/blob/main/Python03.ipynb)
-  * 上課簡報: [5/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+ * 上課簡報: [5/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=516152)
+
+### week 6: Python 資料正則化(Regular Express)
+ * HI
+ * [練習資料]()
+ * 上課簡報: [6/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+  
+  
 ## 🙌作業連結
 > ### Week2
 >> #### [Python_01練習](https://github.com/41071119H-Irene/PL/blob/main/Week2_python_01.ipynb)
@@ -77,4 +84,9 @@
 >> #### [作業一-課程缺席尋找器兼資料處理的使用](https://github.com/41071119H-Irene/PL/blob/main/Week3_Homework_01.ipynb)
 > ### Week4
 >> #### [Python_03練習](https://github.com/41071119H-Irene/PL/blob/main/Week4_Python_03.ipynb)
+> ### Week5
+>> #### [Python_04練習]()
+>> #### [作業二-資料變字典]
+![image](https://user-images.githubusercontent.com/112916890/194536316-8fa28301-3333-4ed0-96dd-530618f1e921.png)
+
 ## 📽️專題連結
