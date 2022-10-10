@@ -67,6 +67,7 @@
 
 ### week 5: Basic Python 04
  * Json形式的資料-> 巢狀資料級
+ * [Json Parser](http://json.parser.online.fr/)
  * [練習資料](https://github.com/pecu/PL/blob/main/Python03.ipynb)
  * 上課簡報: [5/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=516152)
 
@@ -85,8 +86,8 @@
 > ### Week4
 >> #### [Python_03練習](https://github.com/41071119H-Irene/PL/blob/main/Week4_Python_03.ipynb)
 > ### Week5
->> #### [Python_04練習]()
->> #### [作業二-資料變字典]
+>> #### [Python_04練習](https://github.com/41071119H-Irene/PL/blob/main/Week5_Python04.ipynb)
+>> #### [作業二-資料變字典](https://github.com/41071119H-Irene/PL/blob/main/Week5_Python04.ipynb)
 ![image](https://user-images.githubusercontent.com/112916890/194536316-8fa28301-3333-4ed0-96dd-530618f1e921.png)
 
 ## 📽️專題連結
