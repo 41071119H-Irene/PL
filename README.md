@@ -94,6 +94,6 @@
 >> #### [Python_04練習](https://github.com/41071119H-Irene/PL/blob/main/Week5_Python04.ipynb)
 >> #### [作業二-資料變字典](https://github.com/41071119H-Irene/PL/blob/main/Week5_Python04(HW2).ipynb)
 > ### Week6
->> ####[Python 規則正規化](https://github.com/41071119H-Irene/PL/blob/main/Week6_Python%20Regular%20Express.ipynb)
+>> #### [Python 規則正規化](https://github.com/41071119H-Irene/PL/blob/main/Week6_Python%20Regular%20Express.ipynb)
 
 ## 📽️專題連結
