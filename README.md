@@ -83,7 +83,7 @@
  * 上課簡報: [6/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=518934)
 
 ### Week 7: Python 網路爬蟲
- * 上課簡報: [7/16 程式語言]()  [上課直播]()
+ * 上課簡報: [7/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
@@ -98,5 +98,9 @@
 >> #### [作業二-資料變字典](https://github.com/41071119H-Irene/PL/blob/main/Week5_Python04(HW2).ipynb)
 > ### Week6
 >> #### [Python 規則正規化](https://github.com/41071119H-Irene/PL/blob/main/Week6_Python%20Regular%20Express.ipynb)
+> ### Week7
+>> #### [作業三]()
+![image](https://user-images.githubusercontent.com/112916890/196433013-5d3cfcf7-bbda-4335-979d-5e4ae08f185d.png)
+
 
 ## 📽️專題連結
