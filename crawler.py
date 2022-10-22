@@ -1,5 +1,6 @@
 # 抓取 PTT 新竹版的網頁原始碼(HTML)
 import urllib.request as req
+import json
 url= "https://www.ptt.cc/bbs/Hsinchu/index.html" # 可以換成想要抓的PTT版之網址
 # 建立一個 Request 物件，附加 Request Headers 的資訊(看起來像人類)
 request=req.Request(url, headers={
@@ -13,4 +14,10 @@ root=bs4.BeautifulSoup(data, "html.parser")
 titles=root.find_all("div", class_="title") # 尋找所有 class="title" 的 div 標籤
 for title in titles:
     if title.a !=None: # 如果標題包含 a 標籤(仍存在於網頁上)，就印出來
-        print(title.a.string)
+        finish = title.a.string 
+        json_dict = json.dumps(finish,ensure_ascii=False).encode('utf8')
+        decode = json_dict.decode()
+        print(decode)
+        fn = r'C:\Users\Irene Chang\Desktop\\Hsinchu_PTT.json'
+        with open(fn, 'w') as json_obj:
+            json.dump(decode, json_obj)
