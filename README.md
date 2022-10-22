@@ -99,7 +99,7 @@
 > ### Week6
 >> #### [Python 規則正規化](https://github.com/41071119H-Irene/PL/blob/main/Week6_Python%20Regular%20Express.ipynb)
 > ### Week7
->> #### [作業三]()
+>> #### [作業三-爬蟲套件(PTT新竹版標題)](https://github.com/41071119H-Irene/PL/tree/main/HW3%20python%20crawl)
 ![image](https://user-images.githubusercontent.com/112916890/196433013-5d3cfcf7-bbda-4335-979d-5e4ae08f185d.png)
 
 
