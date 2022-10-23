@@ -19,5 +19,5 @@ for title in titles:
         decode = json_dict.decode()
         print(decode)
         fn = r'C:\Users\Irene Chang\Desktop\\Hsinchu_PTT.json'
-        with open(fn, 'w') as json_obj:
-            json.dump(decode, json_obj)
+        with open(fn, 'w', encoding = 'utf-8') as json_obj:
+            json.dump(finish, json_obj)
