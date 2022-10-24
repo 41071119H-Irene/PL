@@ -18,6 +18,17 @@ for title in titles:
         json_dict = json.dumps(finish,ensure_ascii=False).encode('utf8')
         decode = json_dict.decode()
         print(decode)
-        fn = r'C:\Users\Irene Chang\Desktop\\Hsinchu_PTT.json'
-        with open(fn, 'w', encoding = 'utf-8') as json_obj:
-            json.dump(finish, json_obj)
+
+# 轉為json檔並直接下載
+
+fn = r'C:\Users\Irene Chang\Desktop\\Hsinchu_PTT.json'
+with open(fn, 'w', encoding = 'utf-8') as json_obj:
+    json.dump(finish, json_obj)
+    print("json下載完成")
+
+# 轉為csv檔，直接下載
+
+fn = r'C:\Users\Irene Chang\Desktop\\Hsinchu_PTT.csv'
+with open(fn, 'w', encoding = 'utf-8') as df:
+    json.dump(finish, df)
+    print("csv下載完成")
