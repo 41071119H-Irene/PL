@@ -83,7 +83,19 @@
  * 上課簡報: [6/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=518934)
 
 ### Week 7: Python 網路爬蟲
- * 上課簡報: [7/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+ * [PPT爬蟲教學影片](https://youtu.be/9Z9xKWfNo7k)
+ * 上課簡報: [7/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=522340)
+
+### Week 8: Python PYTHON 資料彙整、資料視覺化
+ * 資料彙整(pandas 套件)
+     * 套件介紹
+     * 初步欄位處理(觀察資料、文字切割處理、dataframe新增欄位)
+     * loc、iloc函數介紹(+練習題)
+     * str.contains函數解紹(+練習題)
+     * 欄位處理
+     * apply、lambda函數介紹(+練習題)
+ * [課程資料]([https://youtu.be/9Z9xKWfNo7k](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96))
+ * 上課簡報: [8/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
