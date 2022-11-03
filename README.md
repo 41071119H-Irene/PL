@@ -97,7 +97,12 @@
  * 資料視覺化
      * [Plotly](https://plotly.com/python/)
  * [課程資料]([https://youtu.be/9Z9xKWfNo7k](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96))
- * 上課簡報: [8/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+ * 上課簡報: [8/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=525096)
+ 
+ ### Week 9: PYTHON 文字探勘
+ * [文字探勘教學](https://www.youtube.com/watch?v=HGPPoaBxyb0&feature=emb_imp_woyt)
+ * [練習資料](https://github.com/pecu/LawTech/tree/main/2021LawTech/Learning-Materials/C6_Python_%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98)
+ * 上課簡報: [9/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
@@ -116,6 +121,13 @@
 >> #### [作業三-爬蟲套件(PTT新竹版標題)](https://github.com/41071119H-Irene/PL/tree/main/HW3%20python%20crawl)
 > ### Week8
 >> #### [資料彙整練習]()
+> ### Week9
+>> #### [作業四-文字探勘]()
+![image](https://user-images.githubusercontent.com/112916890/199634826-58a5eefb-4fa7-4c57-b766-3e80d8940ee8.png)
+
 
 
 ## 📽️專題連結
+### 主題
+### 想解決的問題
+### 
