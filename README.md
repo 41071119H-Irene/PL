@@ -102,7 +102,11 @@
  ### Week 9: PYTHON 文字探勘
  * [文字探勘教學](https://www.youtube.com/watch?v=HGPPoaBxyb0&feature=emb_imp_woyt)
  * [練習資料](https://github.com/pecu/LawTech/tree/main/2021LawTech/Learning-Materials/C6_Python_%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98)
- * 上課簡報: [9/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+ * 上課簡報: [9/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://www.youtube.com/watch?v=YYoZXoOftK0)
+ ### Week 10: 鱸魚 - 矽谷觀察家縮矽谷
+ ### Week 11: Python 文本共現網路分析/如何開創自己的路 
+ * [TradingTrain鎚圈-技術分析交易訓練首選品牌](https://www.tdtn.tw/)
+ * 上課簡報: [11/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
 
 ## 🙌作業連結
 > ### Week2
@@ -119,13 +123,9 @@
 >> #### [Python 規則正規化](https://github.com/41071119H-Irene/PL/blob/main/Week6_Python%20Regular%20Express.ipynb)
 > ### Week7
 >> #### [作業三-爬蟲套件(PTT新竹版標題)](https://github.com/41071119H-Irene/PL/tree/main/HW3%20python%20crawl)
-> ### Week8
->> #### [資料彙整練習]()
 > ### Week9
->> #### [作業四-文字探勘]()
-![image](https://user-images.githubusercontent.com/112916890/199634826-58a5eefb-4fa7-4c57-b766-3e80d8940ee8.png)
-
-
+>> #### [作業四-文字探勘Medium](https://medium.com/@irene9227/文字探勘的強大-從google評論分析於師大附近最受歡迎的飲料店並深入探討此飲料店為何受歡迎-c1e8b27a7158)
+>> #### [作業四-文字探勘程式碼](https://github.com/41071119H-Irene/PL/blob/main/Week9_HW4_Drinks.ipynb)
 
 ## 📽️專題連結
 ### 主題
