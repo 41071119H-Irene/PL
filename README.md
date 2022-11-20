@@ -106,7 +106,7 @@
  ### Week 10: 鱸魚 - 矽谷觀察家縮矽谷
  ### Week 11: Python 文本共現網路分析/如何開創自己的路 
  * [TradingTrain鎚圈-技術分析交易訓練首選品牌](https://www.tdtn.tw/)
- * 上課簡報: [11/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播]()
+ * 上課簡報: [11/16 程式語言](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)  [上課直播](https://moodle3.ntnu.edu.tw/mod/page/view.php?id=532851)
 
 ## 🙌作業連結
 > ### Week2
@@ -126,6 +126,9 @@
 > ### Week9
 >> #### [作業四-文字探勘Medium](https://medium.com/@irene9227/文字探勘的強大-從google評論分析於師大附近最受歡迎的飲料店並深入探討此飲料店為何受歡迎-c1e8b27a7158)
 >> #### [作業四-文字探勘程式碼](https://github.com/41071119H-Irene/PL/blob/main/Week9_HW4_Drinks.ipynb)
+> ### Week11
+>> #### [作業五-文本共現網路分析Medium]()
+>> #### [作業四-文本共現網路分析式碼]()
 
 ## 📽️專題連結
 ### 主題
